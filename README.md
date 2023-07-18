@@ -1,20 +1,13 @@
 
 ## Title
 
-Quiz Site
+Quote-Generator
 ## Description 
 
-Presenting my JavaScript Quiz Website! Test your knowledge with a collection of engaging quizzes. Enjoy an interactive experience, responsive design, and captivating visuals. Enhance your learning while having fun. Accessible on any device for seamless quiz-taking. Expand your knowledge with this captivating quiz platform.
+"Using JavaScript, HTML, and CSS, this quote generator brings inspiration to your fingertips. Get inspired with a click of a button as it randomly generates motivational quotes. With a sleek design and seamless functionality, this web application sparks creativity and motivation, making it perfect for daily doses of inspiration."
 ## Authors
 
 - [jagathishwaran](https://www.github.com/jagathishwaran) 
-
-
-## Demo
-
-Live Demo:
-
-        https://jagathishwaran.github.io/Quiz-Site/
 
     
 ## Getting Started
@@ -34,11 +27,11 @@ To explore or modify the code, follow these steps:
 
 ## Features
 
-1️⃣ Dynamic question generation: Questions are generated dynamically to provide a unique experience with each quiz attempt.
+1️⃣ Random Quote Generation: Experience a fresh dose of inspiration with every refresh. This quote generator randomly generates motivational quotes, ensuring that you never run out of uplifting messages. Each quote is accompanied by the author's name, adding credibility and context to the wisdom being shared.
 
-2️⃣ Score tracking: Keep track of user scores and display them at the end of each quiz.
+2️⃣ New Quote Button: Take control of your inspiration journey with the ability to fetch a new quote at your convenience. Simply click the "New Quote" button, and the generator will provide you with a brand new quote and author combination, giving you endless possibilities for inspiration.
 
-3️⃣ Responsive design: Ensure the website is accessible and user-friendly on various devices.
+3️⃣ Tweet Functionality: Share your favorite quotes with the world using the integrated tweet button. With a single click, you can instantly share a quote along with the author's name on Twitter, spreading positivity and motivation to your followers. Amplify the impact of meaningful quotes by easily sharing them on social media.
 
 
 
